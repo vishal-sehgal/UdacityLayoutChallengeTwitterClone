@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.developervishalsehgal.twitterclone.Fragments.NotificationFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/srch_logo"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:tint="@color/tabUnselectedIconColor"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_search_black_24dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/srch_logo"
+        android:text="No results found!"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:textColor="@color/tabUnselectedIconColor"/>
+
+</RelativeLayout>

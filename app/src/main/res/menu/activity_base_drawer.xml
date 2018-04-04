@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/groupone"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_bar_profile"
+            android:title="Profile"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/highlights"
+            android:icon="@drawable/vector_highlights"
+            android:title="Highlights"
+            android:checkable="false" />
+        <item
+            android:id="@+id/my_moments"
+            android:icon="@drawable/ic_bar_moments"
+            android:title="My Moments"
+            android:checkable="false" />
+        <item
+            android:id="@+id/lists"
+            android:icon="@drawable/vector_lists"
+            android:title="Lists"
+            android:checkable="false" />
+        <item
+            android:id="@+id/connect"
+            android:icon="@drawable/ic_connect"
+            android:title="Connect"
+            android:checkable="false" />
+    </group>
+    <group
+        android:id="@+id/grouptwo"
+        android:checkableBehavior="single">
+            <item
+                android:id="@+id/qr_code"
+                android:title="QR code"
+                android:checkable="false" />
+            <item
+                android:id="@+id/settings"
+                android:title="Settings and Privacy"
+                android:checkable="false"/>
+            <item
+                android:id="@+id/help_center"
+                android:title="Help Center"
+                android:checkable="false" />
+    </group>
+</menu>

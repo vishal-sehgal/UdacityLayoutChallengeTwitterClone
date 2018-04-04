@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="full_names">
+        <item>Aditi Soni</item>
+        <item>Kaushik</item>
+        <item>Shubham</item>
+        <item>Saurabh</item>
+        <item>Rahul</item>
+        <item>Wahdat</item>
+        <item>Nishanks</item>
+        <item>Rakesh</item>
+        <item>Shivam</item>
+        <item>Mahi</item>
+        <item>Vishal</item>
+    </string-array>
+
+
+    <string-array name="usernames">
+        <item>\@aditisoni</item>
+        <item>\@kaushiksanji</item>
+        <item>\@shubhamsoni</item>
+        <item>\@saurabh</item>
+        <item>\@rahulyadav</item>
+        <item>\@wahdat</item>
+        <item>\@nishanks</item>
+        <item>\@rakesh</item>
+        <item>\@shivam</item>
+        <item>\@mahi</item>
+        <item>\@sehgalvishal</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+        <item>12hr</item>
+    </string-array>
+    <string-array name="content_text">
+        <item>Yippee!! Finally my Lifecycle concept Cleared..After a too long discussion. haha</item>
+        <item>I and @Shubham Soni tried our best here to answer. Do not know how many times we posted the same answer in different ways., we\'re happy that your doubt clear, cheers!!</item>
+        <item>That\’s because everyone has its own new Terms…that don’t even Exist..that confused all of us! #Khel_Gayi</item>
+        <item>I think once this thread reaches 135, we can safely assume this is the longest thread we\'ve ever made.</item>
+        <item>I too forgot my lifecycle in that process,hahaha</item>
+        <item>So at the end long discussions clear concepts</item>
+        <item>Is it that \'onRestart\' is called while we come back or revisit our activity.</item>
+        <item>still not clear!!! :sweat_smile:</item>
+        <item>I summarised my understanding into following about the lifecycle:</item>
+        <item>check if this post helps you again, hahaha</item>
+        <item>Now, finally i can Rest in Peace!! and continue my dreams to NewYork. </item>
+    </string-array>
+
+    <integer-array name="profile_img_feed">
+        <item>@drawable/aditisoni</item>
+        <item>@drawable/kaushiksanji</item>
+        <item>@drawable/shubhamsoni</item>
+        <item>@drawable/saurabh</item>
+        <item>@drawable/rahulyadav</item>
+        <item>@drawable/wadhatkashmiri</item>
+        <item>@drawable/nishanks</item>
+        <item>@drawable/rakesh</item>
+        <item>@drawable/shivamarora</item>
+        <item>@drawable/mahi</item>
+        <item>@drawable/vishal</item>
+    </integer-array>
+
+    <string-array name="reply_count">
+        <item>150</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>7</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="retweet_count">
+        <item>100</item>
+        <item>50</item>
+        <item>50</item>
+        <item>45</item>
+        <item>65</item>
+        <item>25</item>
+        <item>65</item>
+        <item>85</item>
+        <item>25</item>
+        <item>5</item>
+        <item>35</item>
+    </string-array>
+    <string-array name="heart_count">
+        <item>599</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+    </string-array>
+
+</resources>

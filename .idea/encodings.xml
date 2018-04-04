@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/developervishalsehgal/twitterclone/Adapters/FeedAdapter.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi-v4/demo-image.jpg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi-v4/images.jpeg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_heart_off_default_night.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_reply_default_night.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_reply_pressed.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bar_home.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bar_messages.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bar_moments.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bar_notifications.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bar_profile.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bar_search.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_compose_action_drafts_pressed_night.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_connect.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_fab_compose_write.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_message_feed.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_moments.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_tweet_action_inline_heart_on.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_tweet_action_inline_reply_fadedgray.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_tweet_action_inline_reply_fadedgray.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_tweet_action_inline_retweet_lightgray.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_tweet_action_inline_retweet_lightgray.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_user.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/twitter_compose.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/twitter_white_logo.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_compose_fab.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_heart_activity.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_highlights.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_lists.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_messages_inline.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_retweet_activity.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vector_retweet_activity.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/vishalsehgal.png" charset="windows-1251" />
+  </component>
+</project>
