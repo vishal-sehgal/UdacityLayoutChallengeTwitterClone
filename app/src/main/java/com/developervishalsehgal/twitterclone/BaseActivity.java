@@ -38,9 +38,15 @@ public class BaseActivity extends AppCompatActivity
     TabLayout tabLayout;
     ViewPager viewPager;
     DrawerLayout drawer;
+    /**
+     * Setting the icons for tabLayout.
+     */
     private int[] tabicons = {R.drawable.ic_bar_home,R.drawable.ic_bar_search,R.drawable.ic_bar_notifications,
             R.drawable.ic_bar_messages};
 
+    /**
+     * Setting the titles for tabLayout.
+     */
     final String[] tabTitles = {"Home","Search","Notifications","Messages"};
 
     @Override
